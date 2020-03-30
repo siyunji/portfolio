@@ -1,0 +1,19 @@
+
+
+figure{
+  background: #fff;
+  border: solid 3px #eaeaea;
+  box-shadow: 0 2px 10px 0px hsla(5,5%,5%,.015);
+  transition: all .5s ease-in-out;
+  position: relative;
+  padding: 2.0em 1.0em;
+  margin-bottom: 2em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 20px;
+  margin-inline-end: 20px;
+}
+
+#project{
+  margin-top: 150px;
+}
